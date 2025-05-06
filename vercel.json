@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://your-target-url.com",
+      "permanent": false
+    }
+  ]
+}
