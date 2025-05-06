@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/(.*)",
-      "destination": "https://your-target-url.com",
+      "destination": "https://discord.gg/7N594Vnuuw",
       "permanent": false
     }
   ]
